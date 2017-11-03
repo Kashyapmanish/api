@@ -1,0 +1,202 @@
+{
+  "companies": [
+    {
+      "companyId": 11111,
+      "name": "'KFC'",
+      "domain": "'YKK.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 22222,
+      "name": "'KFC'",
+      "domain": "'YKK.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 33333,
+      "name": "'Nike'",
+      "domain": "'nike.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 44444,
+      "name": "'Google'",
+      "domain": "'google.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 55555,
+      "name": "'Apple'",
+      "domain": "'apple.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 66666,
+      "name": "'BlackBerry'",
+      "domain": "'bb.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    }
+  ],
+  
+  "staffs": [
+    {
+      "companyId": 11111,
+      "stafId": 1234,
+      "memberOfCMT": 0,
+      "fname": "'Stan'",
+      "lname": "'Smith'",
+      "cell": 3033341234,
+      "work": 3033341234,
+      "email": "'stan@mail.com'",
+      "active": 1,
+      "activationCode": "er432",
+      "security": {
+        "bitwise": 7
+      },
+      "SecurityZones": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 22222,
+      "stafId": 1234,
+      "memberOfCMT": 0,
+      "fname": "'Stan'",
+      "lname": "'Smith'",
+      "cell": 3033341234,
+      "work": 3033341234,
+      "email": "'stan@mail.com'",
+      "active": 1,
+      "activationCode": "er432",
+      "security": {
+        "bitwise": 7
+      },
+      "SecurityZones": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 33333,
+      "stafId": 1234,
+      "memberOfCMT": 0,
+      "fname": "'Stan'",
+      "lname": "'Smith'",
+      "cell": 3033341234,
+      "work": 3033341234,
+      "email": "'stan@mail.com'",
+      "active": 1,
+      "activationCode": "er432",
+      "security": {
+        "bitwise": 7
+      },
+      "SecurityZones": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    }
+  ]  
+}

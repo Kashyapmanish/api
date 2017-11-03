@@ -1,0 +1,52 @@
+{
+	"name": "companies",
+	"lastModified": 1506429561863,
+	"schema": {
+		"companyId": "",
+		"name": "",
+		"domain": "",
+		"adminSupportNumber" : "",
+		"globalSecurityZone" : ""
+	},
+	"entries": [
+	 {
+      "companyId": 1234123,
+      "name": "'KFC'",
+      "domain": "'YKK.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    },
+    {
+      "companyId": 1234123,
+      "name": "'KFC'",
+      "domain": "'YKK.com'",
+      "status": true,
+      "adminSupportNumber": "'123",
+      "globalSecurityZone": {
+        "Cmt": 1,
+        "CmtAdmin": 0,
+        "Admin": 0,
+        "SingleCrisisMode": 0,
+        "ClaimsReporting": 1,
+        "CrisisReporting": 1,
+        "CrisisActivation": 1,
+        "CrisisActivationOptions": 1,
+        "MeetingCreate": 1,
+        "TaskManagement": 1
+      }
+    }
+	]
+}
+
